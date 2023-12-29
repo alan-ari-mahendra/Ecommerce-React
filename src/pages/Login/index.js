@@ -78,7 +78,7 @@ export default function Login(){
          </form>
          
          <div className="text-center mt-2">
-           Belum punya akun? <Link to="/register"><b>Daftar sekarang.</b></Link>
+           Belum punya akun ? <Link to="/register"><b>Daftar sekarang.</b></Link>
          </div>
        </Card>
      </LayoutOne>
